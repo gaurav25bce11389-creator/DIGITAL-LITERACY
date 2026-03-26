@@ -26,14 +26,15 @@ This repository contains my Digital Literacy Project, completed as part of the C
 ---
 
 ## 📝 Digital Literacy Quiz (Google Form)
-- [Click here to attempt the quiz](https://forms.google.com/your-link-here)
+- [Click here to attempt the quiz](https://docs.google.com/forms/d/e/1FAIpQLSeooropPOW-QG5bHKt_MYsq42PvN8iIY3erc-yo_kvc8fZXlg/viewform?usp=publish-editor).
+
 
 ---
 
 ## 👤 My Digital Profiles
-- **GitHub:**https://github.com/gaurav25bce11389-creator  
-- **LinkedIn:** https://www.linkedin.com/in/gaurav-kumar-a938a826b/
-- **HackerRank (Optional):** https://www.hackerrank.com/profile/gaurav_25bce1131
+- **GitHub**: https://github.com/gaurav25bce11389-creator  
+- **LinkedIn: https://www.linkedin.com/in/gaurav-kumar-a938a826b/
+- **HackerRank(Optional): https://www.hackerrank.com/profile/gaurav_25bce1131
 ---
 
 ## 📊 Task Highlights
@@ -65,7 +66,8 @@ Researched a cybercrime case study and created a prevention checklist for studen
 - https://github.com  
 - https://linkedin.com  
 - https://forms.google.com  
-- https://cybercrime.gov.in  
+- https://cybercrime.gov.in
+- https://www.hackerrank.com 
 
 ---
 
