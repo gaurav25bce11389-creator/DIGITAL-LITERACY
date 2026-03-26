@@ -17,13 +17,11 @@ This repository contains my Digital Literacy Project, completed as part of the C
 ## 📂 Project Structure
 
 ### 🧩 Tasks
-- https://github.com/gaurav25bce11389-creator/DIGITAL-LITERACY/tree/main/task-1
-- [Task 2 – Digital Portfolio](./task-2-portfolio/)
-- [Task 3 – Platforms & Collaboration](./task-3-platforms/)
-- [Task 4 – Email Etiquette](./task-4-email-etiquette/)
-- [Task 5 – Cybercrime Awareness](./task-5-cybercrime/)
-
----
+- https://github.com/gaurav25bce11389-creator/DIGITAL-LITERACY/tree/main/task-1-presentation
+- https://github.com/gaurav25bce11389-creator/DIGITAL-LITERACY/tree/main/task-2-digital%20portfolio
+- https://github.com/gaurav25bce11389-creator/DIGITAL-LITERACY/tree/main/task-3-explore%20coding%20%26%20colleboration%20platform
+- https://github.com/gaurav25bce11389-creator/DIGITAL-LITERACY/tree/main/task-4-email-etiquette
+---https://github.com/gaurav25bce11389-creator/DIGITAL-LITERACY/tree/main/task-5-cybercrime
 
 ## 📝 Digital Literacy Quiz (Google Form)
 - [Click here to attempt the quiz](https://docs.google.com/forms/d/e/1FAIpQLSeooropPOW-QG5bHKt_MYsq42PvN8iIY3erc-yo_kvc8fZXlg/viewform?usp=publish-editor).
@@ -57,7 +55,7 @@ Researched a cybercrime case study and created a prevention checklist for studen
 ---
 
 ## 📑 Project Report
-- [Download Project Report](./report/Project_Report.pdf)
+- [Download Project Report](./REPORT/DIGITAL_LITERACY_PROJECT_REPORT.pdf)
 
 ---
 
