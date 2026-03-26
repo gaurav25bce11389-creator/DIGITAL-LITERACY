@@ -17,7 +17,7 @@ This repository contains my Digital Literacy Project, completed as part of the C
 ## 📂 Project Structure
 
 ### 🧩 Tasks
-- [Task 1 – Infographic / Presentation](./task-1-presentation/)
+- https://github.com/gaurav25bce11389-creator/DIGITAL-LITERACY/tree/main/task-1
 - [Task 2 – Digital Portfolio](./task-2-portfolio/)
 - [Task 3 – Platforms & Collaboration](./task-3-platforms/)
 - [Task 4 – Email Etiquette](./task-4-email-etiquette/)
