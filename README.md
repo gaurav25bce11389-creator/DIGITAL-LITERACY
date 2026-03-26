@@ -31,10 +31,9 @@ This repository contains my Digital Literacy Project, completed as part of the C
 ---
 
 ## 👤 My Digital Profiles
-- **GitHub:** https://github.com/yourusername  
-- **LinkedIn:** https://linkedin.com/in/yourprofile  
-- **HackerRank (Optional):** https://hackerrank.com/yourprofile  
-
+- **GitHub:**https://github.com/gaurav25bce11389-creator  
+- **LinkedIn:** https://www.linkedin.com/in/gaurav-kumar-a938a826b/
+- **HackerRank (Optional):** https://www.hackerrank.com/profile/gaurav_25bce1131
 ---
 
 ## 📊 Task Highlights
