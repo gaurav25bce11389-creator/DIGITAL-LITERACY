@@ -1,6 +1,4 @@
 # DIGITAL-LITERACY
-# 📘 Digital Literacy Project
-
 ## 👤 Student Details
 - **Name:** Gaurav Kumar  
 - **Registration Number:** 25BCE11389  
