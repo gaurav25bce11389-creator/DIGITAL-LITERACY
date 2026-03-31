@@ -12,6 +12,12 @@ HackerRank :
 
 <img width="1631" height="504" alt="Screenshot 2026-03-26 164759" src="https://github.com/user-attachments/assets/4675a02b-9312-4b39-9e6a-994f8b0232f0" />
 
+<img width="1030" height="382" alt="challange (1)" src="https://github.com/user-attachments/assets/78f53439-4187-4b5f-89e0-7bdc6fb779fa" />
+
+
+<img width="1035" height="744" alt="challange (2)" src="https://github.com/user-attachments/assets/e9061bbd-a440-47ee-8523-0d0454b34646" />
+
+
 -------------------------------------------------------
  Google form
 -------------------------------------------------------
